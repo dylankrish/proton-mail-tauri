@@ -1,6 +1,6 @@
-# ProTauri
+# ProtonMail-Tauri
 
-ProTauri is a desktop app that wraps the ProtonMail web app using the Tauri library.
+ProtonMail-Tauri is a desktop app that wraps the ProtonMail web app using the Tauri library.
 
 
 ## Recommended IDE Setup
