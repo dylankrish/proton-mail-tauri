@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "ProTauri",
+    "productName": "ProtonMail",
     "version": "0.0.0"
   },
   "tauri": {
@@ -37,7 +37,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "protauri",
+        "title": "ProtonMail",
         "width": 800,
         "height": 600
       }
