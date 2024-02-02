@@ -1,6 +1,7 @@
-# Tauri + Vanilla
+# ProTauri
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+ProTauri is a desktop app that wraps the ProtonMail web app using the Tauri library.
+
 
 ## Recommended IDE Setup
 
