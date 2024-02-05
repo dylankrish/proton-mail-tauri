@@ -1983,8 +1983,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "protauri"
-version = "0.0.0"
+name = "proton_mail_tauri"
+version = "0.0.1"
 dependencies = [
  "serde",
  "serde_json",
