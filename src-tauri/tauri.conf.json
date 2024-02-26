@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "ProtonMail",
+    "productName": "Proton Mail",
     "version": "0.0.1"
   },
   "tauri": {
@@ -24,7 +24,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.dylankrish.protonmail",
+      "identifier": "com.dylankrish.protonmailtauri",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
@@ -40,7 +40,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "ProtonMail",
+        "title": "Proton Mail",
         "width": 1000,
         "height": 600
       }
