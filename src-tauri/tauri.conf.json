@@ -2,8 +2,8 @@
   "build": {
     "beforeDevCommand": "",
     "beforeBuildCommand": "",
-    "devPath": "https://mail.proton.me/",
-    "distDir": "https://mail.proton.me/",
+    "devPath": "https://account.proton.me/login",
+    "distDir": "https://account.proton.me/login",
     "withGlobalTauri": true
   },
   "package": {
