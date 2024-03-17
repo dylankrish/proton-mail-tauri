@@ -9,6 +9,7 @@ Proton Mail Tauri is a desktop app that wraps the Proton Mail web app using the 
 
 ## Roadmap 
 - Tray Icon
+- Menu bar
 - macOS button decorations
 - Remove "Upgrade" icons on Proton free tier
 - Dark mode html emails 
