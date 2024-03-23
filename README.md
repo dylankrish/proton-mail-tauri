@@ -14,8 +14,11 @@ Proton Mail Tauri is a desktop app that wraps the Proton Mail web app using the 
 - Remove "Upgrade" icons on Proton free tier
 - Dark mode html emails 
 - mailto protocol support
-- ability to download files
 - window transparency?
+
+## Known Issues
+- External links don't open
+- Cannot download files
 
 ## Recommended IDE Setup for development
 
